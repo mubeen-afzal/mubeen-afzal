@@ -1,49 +1,25 @@
-# Hi, I'm Mubeen Afzal 👋
+# Mubeen Afzal
+**AI & Cybersecurity Researcher** | Saarbrücken, Germany |
+[Portfolio](https://mubeen.live) | [LinkedIn](https://linkedin.com/in/mubeen-afzal-ai) | [Email](mailto:mubeen.afzal2001@gmail.com)
 
-AI Engineer | Cybersecurity Researcher | Multi-Agent Systems Developer
+Research Intern at **CISPA Helmholtz Center**.
 
-Based in Saarbrücken, Germany. Passionate about AI-driven cybersecurity, adversarial machine learning, and building secure, trustworthy AI systems.
+I am an **AI Engineer** turned **Security Researcher**, grounded in a **BS in AI** and **industry experience** building intelligent systems. My AI journey has involved developing complex architectures, including **fine-tuning LLMs**, engineering robust **RAG systems**, and designing **agentic AI workflows**.
 
-### 🔍 Research Interests
-- AI-driven cybersecurity & vulnerability assessment
-- Privacy-preserving AI & secure multi-agent systems
-- Threat intelligence automation & adversarial ML
+My current work focuses at the critical intersection of AI and Cybersecurity. I specialize in two areas: I **protect AI models** from adversarial attacks, and I **leverage AI** to automate solutions for system defense and offense.
 
-### 🎓 Education
-- **M.Sc. Cybersecurity** (Oct 2025 – Aug 2027) – Saarland University, Germany
-- **B.Sc. Artificial Intelligence** (Jul 2019 – Jan 2024) – FAST-NUCES, Pakistan
+### 🔭 Research & Engineering Focus
+* **AI-Driven Defense:** Leveraging LLMs and anomaly detection for automated threat intelligence and real-time log analysis.
+* **AI-Driven Offense:** Designing agentic workflows for automated vulnerability scanning and red-teaming operations.
+* **Securing AI:** Hardening models against evasion and poisoning attacks, ensuring robustness in Multi-Agent Systems (RAG).
 
-### 🛠 Technical Skills
-- **Programming:** Python, C++, JavaScript, GO
-- **AI/ML:** Machine Learning, NLP, Computer Vision, Generative AI, LangChain, LangGraph
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Transformers
-- **Cybersecurity:** SIEM (ELK Stack), Anomaly Detection, Log Analysis
-- **MLOps:** Docker, Azure, AWS, FastAPI
-- **Tools:** Git, LaTeX, Jupyter, Pinecone, ChromaDB
+### 💻 Technical Arsenal
+| Domain | Stack |
+| :--- | :--- |
+| **AI Engineering** | PyTorch, TensorFlow, LangChain, LangGraph, RAG, Hugging Face (Transformers/Diffusers) |
+| **Security** | ELK Stack, Anomaly Detection, SIEM, Software Security |
+| **Core** | Python, C, JavaScript, Assembly, SQL, Docker, AWS/Azure, Vector DBs (Pinecone) |
 
-### 💼 Work Experience
-- **AI Engineer @ Ikonic** (Jun-Aug 2025): Built multi-agent systems with LangChain & MCP.
-- **AI Engineer @ Imarat Group** (May-Nov 2024): Developed AI architectural design tools using diffusion models.
-- **Deep Learning Engineer @ Qlu.ai** (Jan-Apr 2024): Designed RAG systems & model monitoring.
-- **Computer Vision Intern @ DataInsight Lab** (Jun-Aug 2023): Multilingual text recognition with YOLO.
-
-### 📁 Selected Projects
-- **ML-Enhanced Threat Intelligence Platform** (Bachelor Thesis): Hybrid anomaly detection with ELK Stack & PyTorch.
-- **Multi-Agent AI Trip Planning System**: Autonomous agents with APIs for flights/hotels using LangGraph.
-- **Intelligent Executive Interview Platform**: AI assistant with GPT-4 & real-time transcription.
-- **RAG System for Email Query Processing**: Semantic search with Pinecone (halted for security reasons).
-
-### 📝 Publications
-- In Preparation: "AI-Enhanced Architectural Design Using Diffusion Models and ControlNet" (2025).
-
-### 🏆 Certifications
-- Generative AI with LLMs (DeepLearning.AI & AWS, 2024)
-- Google Cybersecurity Professional Certificate (2024)
-- Microsoft Azure Fundamentals (AZ-900, 2023)
-
-### 🌍 Languages
-- English (Fluent), German (Basic), Urdu (Native)
-
-Connect with me: [LinkedIn](https://linkedin.com/in/mubeen-afzal-ai) | [Website](https://mubeen.live) | Email: mubeen.afzal2001@gmail.com
-
-Let's collaborate on AI & security projects!
+### 🤝 Collaboration
+I am looking to collaborate on **Secure AI Architectures** and **AI-Assisted Threat Detection**.
+> "Building AI that is safe, and using AI to keep systems safe."
